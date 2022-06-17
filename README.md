@@ -2,6 +2,9 @@
 
 In this project, I created a task manager, where the main purpose was to start studying React.
 
+![image](https://user-images.githubusercontent.com/99288851/174200042-80c7e063-1184-4ae0-8525-0de3c0cbe179.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
